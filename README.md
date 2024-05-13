@@ -78,7 +78,7 @@ let interval = setInterval(() => {
 ```
 Результат выполнения:
 <div align='left'>
-    <img src='./example-1.png'>
+    <img src='./res/example-1.png'>
 </div>
 
 </div>
